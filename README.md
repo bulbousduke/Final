@@ -4,9 +4,9 @@
   <nav>
 <ul>
   <li><a href="/About Me/">About Me</a></li>
-  <li>Other Intrests</li>
-  <li>Video Games</li>
-  <li>Job Life</li>
+  <li><a href="/Other Intrests/">Other Intrests</li>
+  <li><a href="/Video Games/">Video Games</li>
+  <li><a href="/Job Life/">Job Life</li>
 </ul>  
   </nav>
 ******
