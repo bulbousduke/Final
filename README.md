@@ -1,5 +1,5 @@
 <html>
-<body>
+<body style="background-color:aquamarine;">
 <h1>Final</h1>
   <nav>
 <ul>
