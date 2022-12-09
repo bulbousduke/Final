@@ -1,6 +1,7 @@
 <html>
 <body>
 <h1>Final</h1>
+  <a href="https://github.com/bulbousduke/Final/edit/main/README.md#other-intrests"> text of the link </a>
   <nav>
 <ul>
   <li><a href="/About Me/">About Me</a></li>
