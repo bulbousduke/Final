@@ -1,13 +1,12 @@
 <html>
 <body>
 <h1>Final</h1>
-  <a href="https://github.com/bulbousduke/Final/edit/main/README.md#other-intrests"> text of the link </a>
   <nav>
 <ul>
-  <li><a href="/About Me/">About Me</a></li>
-  <li><a href="/Other Intrests/">Other Intrests</li>
-  <li><a href="/Video Games/">Video Games</li>
-  <li><a href="/Job Life/">Job Life</li>
+  <li><a href="https://github.com/bulbousduke/Final/edit/main/README.md#about-me">About Me</a></li>
+  <li><a href="https://github.com/bulbousduke/Final/edit/main/README.md#other-intrests">Other Intrests</li>
+  <li><a href="https://github.com/bulbousduke/Final/edit/main/README.md#video-games">Video Games</li>
+  <li><a href="https://github.com/bulbousduke/Final/edit/main/README.md#job-life">Job Life</li>
 </ul>  
   </nav>
 ******
